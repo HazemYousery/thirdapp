@@ -1,2 +1,2 @@
-# thirdapp
+# Weather app
 Weather App
